@@ -20,7 +20,7 @@ REFRESH_SECRET=refresh_secret
 
 ### Frontend – `frontend/.env.example`
 ```env
-VITE_BACKEND_URL=http://localhost:4000
+VITE_APP_BASE_URL=http://localhost:4000
 ```
 
 Each developer should create their own `.env` files:
