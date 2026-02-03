@@ -111,7 +111,7 @@ cp frontend/.env.example frontend/.env
 
 #### 3. Build and start containers
 ```bash
-docker compose up --build
+docker compose up --build -d
 ```
 
 ---
