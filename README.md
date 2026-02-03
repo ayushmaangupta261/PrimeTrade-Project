@@ -100,7 +100,7 @@ docker compose version
 #### 1. Clone the repository
 ```bash
 git clone https://github.com/ayushmaangupta261/PrimeTrade-Project.git
-cd primetrade
+cd PrimeTrade-Project
 ```
 
 #### 2. Create environment files
