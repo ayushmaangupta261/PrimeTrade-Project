@@ -44,7 +44,7 @@ cp frontend/.env.example frontend/.env
 
 ### macOS
 1. Download Docker Desktop:
-   https://www.docker.com/products/docker-desktop
+   http://docs.docker.com/desktop/setup/install/mac-install/
 2. Install and start Docker Desktop
 3. Verify installation:
 ```bash
@@ -56,7 +56,7 @@ docker compose version
 
 ### Windows
 1. Download Docker Desktop:
-   https://www.docker.com/products/docker-desktop
+   https://docs.docker.com/desktop/setup/install/windows-install/
 2. Enable WSL 2 during installation
 3. Restart system if required
 4. Verify installation:

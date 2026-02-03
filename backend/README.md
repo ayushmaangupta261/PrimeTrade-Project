@@ -86,7 +86,7 @@ src/
 Available in development mode:
 
 ```
-/api-docs
+http://localhost:4000/api-docs
 ```
 
 ---
