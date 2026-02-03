@@ -15,6 +15,6 @@ require("./config/redis");
 const PORT = process.env.PORT || 4000;
 
 // Start HTTP server
-app.listen(PORT, () => {
+app.listen(PORT,"0.0.0.0", () => {
   logger.info(`Server running on port ${PORT}`);
 });
